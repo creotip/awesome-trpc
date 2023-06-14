@@ -16,6 +16,7 @@ This repository aims to gather the best and most useful `tRPC` resources from th
 - [Getting Started with tRPC](#getting-started-with-trpc)
 - [Examples](#examples)
 - [Libraries](#libraries)
+- [Built with tRPC](#built-with-trpc)
 - [Articles and Blog Posts](#articles-and-blog-posts)
 - [Videos](#videos)
 - [Community](#community)
@@ -41,9 +42,13 @@ Code examples and sample projects to understand `tRPC` in action.
 
 Libraries and integrations that extend `tRPC` with additional features and functionalities.
 
-- [trpc-utils](https://github.com/username/trpc-utils) - A collection of utility functions for `tRPC`.
-- [trpc-middleware](https://github.com/username/trpc-middleware) - Middleware for `tRPC` to add custom functionality.
+- [trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC.
+- [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app.
 - [trpc-devtools](https://github.com/username/trpc-devtools) - Developer tools extension for `tRPC`.
+
+## Built with tRPC
+- [Scheduling infrastructure for absolutely everyone](https://github.com/calcom/cal.com)
+- [Error Handling in trpc: Best Practices](https://dev.to/username/error-handling-in-trpc-best-practices)
 
 ## Articles and Blog Posts
 
