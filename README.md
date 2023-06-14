@@ -44,7 +44,7 @@ Libraries and integrations that extend `tRPC` with additional features and funct
 
 - [trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC.
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app.
-- [trpc-devtools](https://github.com/username/trpc-devtools) - Developer tools extension for `tRPC`.
+- [garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript.
 
 ## Built with tRPC
 - [cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
