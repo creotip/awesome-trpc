@@ -23,7 +23,7 @@ This repository aims to gather the best and most useful `tRPC` resources from th
 
 ## Getting Started
 
-Find tutorials, guides, and documentation to help you get started with `trpc`.
+Find tutorials, guides, and documentation to help you get started with `tRPC`.
 
 - [Official trpc Documentation](https://trpc.io/docs/getting-started)
 - [Building a Basic trpc App](https://dev.to/username/building-a-basic-trpc-app-1234)
@@ -31,7 +31,7 @@ Find tutorials, guides, and documentation to help you get started with `trpc`.
 
 ## Examples
 
-Explore a variety of code examples and sample projects to understand `trpc` in action.
+Explore a variety of code examples and sample projects to understand `tRPC` in action.
 
 - [trpc Example Project 1](https://github.com/username/trpc-example-1)
 - [trpc Example Project 2](https://github.com/username/trpc-example-2)
@@ -39,36 +39,36 @@ Explore a variety of code examples and sample projects to understand `trpc` in a
 
 ## Libraries
 
-Discover libraries and integrations that extend `trpc` with additional features and functionalities.
+Discover libraries and integrations that extend `tRPC` with additional features and functionalities.
 
-- [trpc-utils](https://github.com/username/trpc-utils) - A collection of utility functions for `trpc`.
-- [trpc-middleware](https://github.com/username/trpc-middleware) - Middleware for `trpc` to add custom functionality.
-- [trpc-devtools](https://github.com/username/trpc-devtools) - Developer tools extension for `trpc`.
+- [trpc-utils](https://github.com/username/trpc-utils) - A collection of utility functions for `tRPC`.
+- [trpc-middleware](https://github.com/username/trpc-middleware) - Middleware for `tRPC` to add custom functionality.
+- [trpc-devtools](https://github.com/username/trpc-devtools) - Developer tools extension for `tRPC`.
 
 ## Articles and Blog Posts
 
-Dive into articles and blog posts that discuss best practices, tips, and tricks for working with `trpc`.
+Dive into articles and blog posts that discuss best practices, tips, and tricks for working with `tRPC`.
 
 - [Optimizing Performance in trpc Applications](https://blog.example.com/optimizing-performance-in-trpc-apps)
 - [Error Handling in trpc: Best Practices](https://dev.to/username/error-handling-in-trpc-best-practices)
 
 ## Videos
 
-Watch video tutorials and talks that cover different aspects of `trpc` and demonstrate its usage.
+Watch video tutorials and talks that cover different aspects of `tRPC` and demonstrate its usage.
 
 - [Introduction to trpc: Building Microservices](https://www.youtube.com/watch?v=12345)
 - [Advanced trpc Techniques: Scalable Architecture](https://www.youtube.com/watch?v=67890)
 
 ## Community
 
-Connect with the vibrant `trpc` community, participate in discussions, and get support from fellow developers.
+Connect with the vibrant `tRPC` community, participate in discussions, and get support from fellow developers.
 
 - [trpc Discord Channel](https://discord.gg/trpc)
 - [trpc Subreddit](https://www.reddit.com/r/trpc)
 
 ## Contributing
 
-Contribute to the `awesome-trpc` repository by submitting your own resources, tools, or libraries related to `trpc`.
+Contribute to the `awesome-tRPC` repository by submitting your own resources, tools, or libraries related to `tRPC`.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) for more information on how to contribute.
 
