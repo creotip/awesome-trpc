@@ -13,7 +13,7 @@ This repository aims to gather the best and most useful `tRPC` resources from th
 
 ## Contents
 
-- [Getting Started](#getting-started)
+- [Getting Started with tRPC](#getting-started-with-trpc)
 - [Examples](#examples)
 - [Libraries](#libraries)
 - [Articles and Blog Posts](#articles-and-blog-posts)
@@ -21,9 +21,9 @@ This repository aims to gather the best and most useful `tRPC` resources from th
 - [Community](#community)
 - [Contributing](#contributing)
 
-## Getting Started
+## Getting Started with tRPC
 
-Find tutorials, guides, and documentation to help you get started with `tRPC`.
+Tutorials, guides, and documentation to help you get started with `tRPC`.
 
 - [Official trpc Documentation](https://trpc.io/docs/getting-started)
 - [Building a Basic trpc App](https://dev.to/username/building-a-basic-trpc-app-1234)
@@ -31,7 +31,7 @@ Find tutorials, guides, and documentation to help you get started with `tRPC`.
 
 ## Examples
 
-Explore a variety of code examples and sample projects to understand `tRPC` in action.
+Code examples and sample projects to understand `tRPC` in action.
 
 - [trpc Example Project 1](https://github.com/username/trpc-example-1)
 - [trpc Example Project 2](https://github.com/username/trpc-example-2)
@@ -39,7 +39,7 @@ Explore a variety of code examples and sample projects to understand `tRPC` in a
 
 ## Libraries
 
-Discover libraries and integrations that extend `tRPC` with additional features and functionalities.
+Libraries and integrations that extend `tRPC` with additional features and functionalities.
 
 - [trpc-utils](https://github.com/username/trpc-utils) - A collection of utility functions for `tRPC`.
 - [trpc-middleware](https://github.com/username/trpc-middleware) - Middleware for `tRPC` to add custom functionality.
@@ -47,21 +47,17 @@ Discover libraries and integrations that extend `tRPC` with additional features 
 
 ## Articles and Blog Posts
 
-Dive into articles and blog posts that discuss best practices, tips, and tricks for working with `tRPC`.
-
 - [Optimizing Performance in trpc Applications](https://blog.example.com/optimizing-performance-in-trpc-apps)
 - [Error Handling in trpc: Best Practices](https://dev.to/username/error-handling-in-trpc-best-practices)
 
 ## Videos
 
-Watch video tutorials and talks that cover different aspects of `tRPC` and demonstrate its usage.
+Watch video tutorials and talks that cover different aspects of `tRPC`.
 
 - [Introduction to trpc: Building Microservices](https://www.youtube.com/watch?v=12345)
 - [Advanced trpc Techniques: Scalable Architecture](https://www.youtube.com/watch?v=67890)
 
 ## Community
-
-Connect with the vibrant `tRPC` community, participate in discussions, and get support from fellow developers.
 
 - [trpc Discord Channel](https://discord.gg/trpc)
 - [trpc Subreddit](https://www.reddit.com/r/trpc)
@@ -74,4 +70,3 @@ Please read the [contribution guidelines](CONTRIBUTING.md) for more information 
 
 ---
 
-*Note: Replace `creotip` in the badges with your GitHub username once you create the repository.*
