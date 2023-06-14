@@ -37,18 +37,5 @@ Please ensure that your contributions adhere to the following guidelines:
 
 - Make sure your additions are relevant and beneficial to the tRPC community.
 - Follow the existing formatting and style of the repository.
-- Provide clear and concise descriptions for your additions or changes.
 - Include appropriate links and references to external resources.
-- Avoid any offensive, inappropriate, or irrelevant content.
 
-Once your PR is submitted, it will be reviewed by the repository maintainers. They may provide feedback or request modifications before merging your changes.
-
-## Code of Conduct
-
-Contributors to this repository are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code of conduct.
-
-If you encounter any issues or have concerns related to the code of conduct, please contact the repository maintainers.
-
----
-
-We appreciate your contributions and look forward to making Awesome-tRPC an even more valuable resource for the tRPC community! Thank you for your support.
