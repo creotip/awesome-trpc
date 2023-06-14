@@ -47,7 +47,7 @@ Libraries and integrations that extend `tRPC` with additional features and funct
 - [trpc-devtools](https://github.com/username/trpc-devtools) - Developer tools extension for `tRPC`.
 
 ## Built with tRPC
-- [Scheduling infrastructure for absolutely everyone](https://github.com/calcom/cal.com)
+- [cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Error Handling in trpc: Best Practices](https://dev.to/username/error-handling-in-trpc-best-practices)
 
 ## Articles and Blog Posts
