@@ -30,13 +30,6 @@ Tutorials, guides, and documentation to help you get started with `tRPC`.
 - [Building a Basic trpc App](https://dev.to/username/building-a-basic-trpc-app-1234)
 - [Type-Safe API Calls with trpc](https://blog.example.com/type-safe-api-calls-with-trpc)
 
-## Examples
-
-Code examples and sample projects to understand `tRPC` in action.
-
-- [trpc Example Project 1](https://github.com/username/trpc-example-1)
-- [trpc Example Project 2](https://github.com/username/trpc-example-2)
-- [trpc Example Project 3](https://github.com/username/trpc-example-3)
 
 ## Libraries
 
