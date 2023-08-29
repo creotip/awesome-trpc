@@ -46,6 +46,7 @@ Libraries and integrations that extend `tRPC` with additional features and funct
 - [create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app.
 - [garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript.
 - [CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [tRPC-SvelteKit](https://icflorescu.github.io/trpc-sveltekit/) - the tRPC adapter for SvelteKit applications (works with Node.js, Vercel, Netlify). 
 
 
 ## Built with tRPC
