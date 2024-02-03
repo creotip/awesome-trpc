@@ -45,6 +45,7 @@ Libraries and integrations that extend `tRPC` with additional features and funct
 ## Built with tRPC
 - [cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Error Handling in trpc: Best Practices](https://dev.to/username/error-handling-in-trpc-best-practices)
+- [Workplacify](https://workplacify.com/) - Open source desk scheduling software, for hybrid and in-office teams
 
 ## Articles and Blog Posts
 
